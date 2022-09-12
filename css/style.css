@@ -1,0 +1,108 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    width: 100vw;
+    height: auto;
+    display: flex;
+    justify-content: center;
+
+    background-color: #F0ECE3;
+}
+
+.mainBody{
+    
+    /* background-color: #FDFDFC; */
+    width: 1400px;
+    min-height: 1600px;
+    background-color: #FDFDFB;
+    
+}
+
+.topHead{
+    width: 100%;
+    height: 20px;
+}
+.pHeadLogoArea{
+    width: 100%;
+    height: 70px;
+    display: flex;
+
+}
+.pHeadLogoArea1{
+    width: 30%;
+    height: 100%;
+    
+    
+}
+
+
+.pHeadLogoArea2{
+    width: 60%;
+    height: 100%;
+    
+    
+}
+
+.pHeadLogoArea3{
+    text-align: right;
+    padding-right: 20px;
+    width: 30%;
+    height: 100%;
+    
+    
+}
+.pHeadLogoArea3 h2{
+    font-size: 16px;
+    color: #EA9F31;   
+    
+}
+.pHeadLogoArea3 p{
+    font-size: 10px;
+    color: #0A0A0A;
+    font-weight: 600;   
+    
+}
+
+.pHeadLogoArea3 .pNrml{
+    font-size: 10px;
+    color: #898989;
+    font-weight: 300;   
+    
+}
+
+
+/* pHead Content */
+
+.pHeadContent{
+    width: 100%;
+    height: 150px;
+    
+    display: flex;
+
+}
+.pHeadContent1{
+    width: 30%;
+    height: 150px;
+    
+    
+}
+
+.pHeadContent2{
+    width: 20%;
+    height: 150px;
+    
+    
+}
+
+.pHeadContent3{
+    width: 20%;
+    height: 150px;
+
+}
+
+.pHeadContent4{
+    width: 30%;
+    height: 150px;
+}
